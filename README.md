@@ -1,2 +1,2 @@
 # Quantum
-Author: Sanjay Sharma
+Author: Sanjay Kumar Sharma
